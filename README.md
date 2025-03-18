@@ -1,4 +1,4 @@
-# giDevOps demo
+# DevOps demo
 
 # Header 1
 
